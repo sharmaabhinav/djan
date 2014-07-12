@@ -35,3 +35,15 @@ Starting django server
 ----------------------
 
 1 ) python manage.py runserver
+
+
+Other Useful commands
+---------------------
+
+1 ) python manage.py sql < app name > ( prints the sql for models )
+
+2 ) python manage.py validate ( validate models for errors )
+
+3 ) python manage.py syncdb ( create tables for models in database ) 
+
+
