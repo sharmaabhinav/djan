@@ -3,7 +3,7 @@ djan
 
 Learning django and python
 
--------------------------
+
 Setup of django in ubuntu
 -------------------------
 
@@ -15,14 +15,14 @@ Setup of django in ubuntu
 
 4 ) Install django ( easy_install django )
 
----------------------------
+
 Creating new Django project
 ---------------------------
 
 1 ) django-admin.py startproject < project name >
 
 
-------------------------------
+
 Creating an app inside project
 ------------------------------
 
@@ -30,7 +30,7 @@ Creating an app inside project
 
 2 ) python manage.py startapp  < app  name >
 
-----------------------
+
 Starting django server
 ----------------------
 
